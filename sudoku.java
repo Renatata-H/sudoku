@@ -161,7 +161,7 @@ public class sudoku {
             i = i + 1;
         } StdOut.println();
 
-
+        //Comentario aleatorio
         if (false) {
             // Área de depuração
             jogo[7][8] = 3;
